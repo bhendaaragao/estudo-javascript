@@ -29,5 +29,3 @@ else {
     console.log('O Herói de nome', nome, 'está em um nível não definido com XP', xp);
 }
 
-
-
